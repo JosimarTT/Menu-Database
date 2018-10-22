@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Register</string>
+    <string name="text_accounts">Cuentas registradas</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registro</string>
+    <string name="error_message_name">Nombre completo</string>
+    <string name="error_message_email">Email válido</string>
+    <string name="error_message_age">Edad</string>
+    <string name="error_message_password">Contraseña</string>
+    <string name="success_message">Registro exitoso</string>
+    <string name="text_not_member">Crear cuenta</string>
+    <string name="text_already_member">¿Ya eres miembro? Inicia sesión</string>
+    <string name="error_email_exists">El correo ya existe</string>
+    <string name="error_password_match">Las contraseñas no coinciden</string>
+    <string name="error_valid_email_password">Error en el email o contraseña</string>
+    <string name="action_settings">Opciones</string>
+    <string name="text_hello">Hola,</string>
+    <string name="text_title">TECSUP</string>
+</resources>
